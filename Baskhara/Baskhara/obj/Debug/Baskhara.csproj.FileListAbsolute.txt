@@ -1,0 +1,8 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\bin\Debug\Baskhara.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\bin\Debug\Baskhara.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\bin\Debug\Baskhara.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\obj\Debug\Baskhara.Form1.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\obj\Debug\Baskhara.Properties.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\obj\Debug\Baskhara.csproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\obj\Debug\Baskhara.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\Baskhara\Baskhara\obj\Debug\Baskhara.pdb

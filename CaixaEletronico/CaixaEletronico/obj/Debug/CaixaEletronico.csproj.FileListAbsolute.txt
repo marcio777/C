@@ -1,0 +1,8 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb

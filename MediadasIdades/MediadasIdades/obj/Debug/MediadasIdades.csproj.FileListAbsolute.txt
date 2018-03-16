@@ -1,0 +1,8 @@
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\bin\Debug\MediadasIdades.exe.config
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\bin\Debug\MediadasIdades.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\bin\Debug\MediadasIdades.pdb
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\obj\Debug\MediadasIdades.Form1.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\obj\Debug\MediadasIdades.Properties.Resources.resources
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\obj\Debug\MediadasIdades.csproj.GenerateResource.Cache
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\obj\Debug\MediadasIdades.exe
+C:\Users\Mark-pc\Documents\GitHub\Projetos\C#\MediadasIdades\MediadasIdades\obj\Debug\MediadasIdades.pdb
